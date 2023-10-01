@@ -10,9 +10,9 @@
 - 🔭 I’m currently working on **Dtu_Auv**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  [![Holopin Profile](https://holopin.me/nancysingh10)](https://holopin.io/@nancysingh10)
-</p>
+<a href="https://holopin.io/@nancy-singh10">
+  <img src="https://holopin.me/nancy-singh10/" alt="@nancy-singh10's Holopin board" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
