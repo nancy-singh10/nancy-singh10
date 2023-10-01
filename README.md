@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Dtu_Auv**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://holopin.io/@nancy-singh10">
-  <img src="https://holopin.me/nancy-singh10/" alt="@nancy-singh10's Holopin board" />
+<a href="https://holopin.io/@nancysingh10">
+  <img src="https://holopin.me/nancysingh10/" alt="@nancysingh10's Holopin board" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
