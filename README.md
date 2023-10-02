@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student and developer from India</h3>
 
 
-<p align="center"> <img src="https://img.freepik.com/premium-photo/chatbot-helps-student-find-information-write-essay_212944-31140.jpg?w=2000"  width="200" height="200" /> </p>
+<p align="center"> <img src="https://img.freepik.com/premium-photo/chatbot-helps-student-find-information-write-essay_212944-31140.jpg?w=2000"  width="220" height="200" /> </p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nancy-singh10&label=Profile%20views&color=0e75b6&style=flat" alt="nancy-singh10" /> </p>
