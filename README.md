@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy-singh10" alt="nancy-singh10" /></a> </p>
 
-
+[![An image of @nancysingh10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nancysingh10)](https://holopin.io/@nancysingh10)
 
 <h3 align="left"> Hacktoberfest 2023</h3>
 
